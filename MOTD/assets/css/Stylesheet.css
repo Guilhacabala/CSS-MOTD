@@ -1,0 +1,321 @@
+/*CSS MOTD © 2021 by Guilhacabala is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/*/
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color:  #2f2e2e;
+	overflow-x: hidden;
+	
+}
+
+nav{
+	width: 70%;
+	height: auto;
+	font-family: Arial;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 3%;
+	margin-top: 1%;
+	background: transparent;
+	
+}
+ol div{
+	width: 95%;
+	height: auto;
+	font-family: Arial;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 3%;
+	margin-top: 1%;
+	background: transparent;
+	
+	
+}
+
+
+.item label{
+	display: block;
+	padding: 10px;
+	background-color: #aaa;
+	font-size: 40px;
+	cursor: pointer;
+	border-bottom: solid 2px #aaa;
+	margin-top: 15px;
+	text-align: center;
+	
+	
+}
+
+ol .item label{
+	display: block;
+	padding: 10px;
+	background-color: #aaa;
+	font-size: 40px;
+	cursor: pointer;
+	border-bottom: solid 2px #aaa;
+	text-align: center;
+
+	
+}
+
+.item label:hover{
+	background-color: #aaa
+}
+
+.item input{
+	display: none;
+	
+}
+
+.item ol{
+	width: 95%;
+	list-style: none;
+	overflow: hidden;
+	max-height: 0;
+	background: #959392;
+	margin-right: auto;
+	margin-left: auto;
+	border-bottom: solid 10px #959392;
+	
+	
+}
+ol .item ol{
+	width: 95%;
+	list-style: none;
+	overflow: hidden;
+	max-height: 0;
+	background: #828282;
+	margin-right: auto;
+	margin-left: auto;
+	border-bottom: solid 10px #828282;
+	
+	
+}
+.item ol li a{
+	width: 100%;
+	height: 20px;
+	padding: 10px;
+	display: block;
+	text-decoration: none;
+	background-color: #fafafa
+}
+
+.item ol li{
+	width: 90%;
+	height: 8%;
+	padding: 10px;
+	display: block;
+	text-decoration: none;
+	background-color: #aaa;
+	color: #333
+	border-bottom: solid 2px #aaa;
+	font-weight: bold;
+	outline: 2px solid black;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	overflow: auto;
+}
+
+}
+
+.item ol li:hover{
+	background-color: #aaa;
+}
+
+.item ol li a:hover{
+	background-color: #9cf;
+}
+
+.item input:checked ~ ol{
+	height: auto;
+	max-height: 2000000px;
+ 
+	
+}
+.centerpll {
+	text-align: center;
+	
+	
+}
+button {
+	background-color: #2f2e2e;
+	border: none;
+	color: white;
+	padding: 1% 1%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	margin: auto;
+	cursor: pointer;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+.motd-header {
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	background: #8b0000;
+	height: 90%;
+	border-top: 15px solid #8b0000; 
+	border-bottom: 25px solid #8b0000;	
+}
+
+.motd-header2 {
+	font-family: Arial;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	background: #8b0000;
+	height: 100%;
+	border-top: 0px solid #8b0000; 
+	border-bottom: 15px solid #8b0000;	
+}
+
+li span{
+  color:Black;
+  
+}
+li:hover span{
+  color:red
+}
+input{
+display: none;	
+}
+
+	.copyrightup {
+        position: absolute;
+        color: #fff;
+        line-height: 0px;
+        font-size: 0.7em;
+        text-align: center;
+        bottom: 5px;
+		left:5px;
+		cursor: pointer;
+    }
+	.copyrightup2 {
+        position: absolute;
+        color: #fff;
+        line-height: 0px;
+        font-size: 0.7em;
+        text-align: center;
+        bottom: 5px;
+		right:5px;
+		cursor: pointer;
+    }
+
+.motd-footer {
+	color: white;
+	font-size: 30px;
+	background: #8b0000;
+	height: 100%;
+	border-top: 25px solid #8b0000; 
+	border-bottom: auto solid #8b0000;
+	text-align: center;	
+}
+.linedeco {
+	margin-right: auto;
+	margin-left: auto;
+	background: #8b0000;
+	color: #8b0000;
+	height: 5px;
+	width: 100%;
+	border-top: 8px solid #2f2e2e;
+	border-bottom: 0px solid #2f2e2e
+	
+}
+/*scrollwheel*/
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px transparent;
+  border-radius: 0px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: red;
+  border-radius: 0px;
+}
+.center {
+	text-align: center;
+	height: auto;
+	width: auto;
+}
+#Footer {
+	margin-right: auto;
+	margin-left: auto;
+    background: transparent;
+    color: white;
+    text-align: center;
+	width: 250px;
+	height: 10px;
+}
+
+
+
+.link
+{
+   color:white;
+   text-decoration: none; 
+   background-color: none;
+}
+.big
+{
+	color: white;
+	font-size: 28px;
+	width: auto;
+	margin-top: 12px;
+	font-family: Arial;
+}
+.big2
+{
+	color: white;
+	width: auto;
+	font-family: Arial;
+}
+#CCM2 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.CCM2__window {
+  position: relative;
+  background-color: #959392;
+  padding: 4em 2em;
+}
+
+.CCM2__close {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  color:white;
+   text-decoration: none; 
+   background-color: none;
+}
+
+#CCM2:not(:target) {
+    visibility: hidden;
+    opacity: 0;
+}
