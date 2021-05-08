@@ -1,5 +1,9 @@
 # CSS-MOTD
-This CSS MOTD is under the licensing of Creative Commons BY
+This CSS MOTD is under the licensing of Creative Commons BY<p/>
+This MOTD Functions With Accordions (Expandable MOTD)
+
+![image](https://user-images.githubusercontent.com/64750771/117525389-718eb600-af98-11eb-8670-d69b2583b0ba.png)
+
 # How to configure the new MOTD
 In the boxes bellow you are going to learn how to configure your new MOTD
 # Creating new lists
@@ -18,6 +22,8 @@ Making a rule list fit inside of another rule list is easy!<p/>
 <li>Place it in the LI Place</li>
 <li>Number the inside list checkboxes accordingly<p/> Ex.: 3.1</li>
 </ol>
+
+![image](https://user-images.githubusercontent.com/64750771/117525428-a6027200-af98-11eb-97c9-73c22ed31b16.png)
 
 ![image](https://user-images.githubusercontent.com/64750771/117524844-d4328280-af95-11eb-84c3-ce081e2730d8.png)
 
