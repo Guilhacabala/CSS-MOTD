@@ -23,7 +23,7 @@ Making a rule list fit inside of another rule list is easy!<p/>
 <li>Number the inside list checkboxes accordingly<p/> Ex.: 3.1</li>
 </ol>
 
-![image](https://user-images.githubusercontent.com/64750771/117525428-a6027200-af98-11eb-97c9-73c22ed31b16.png)
+![image](https://user-images.githubusercontent.com/64750771/118533460-7aad1f00-b71e-11eb-847c-8b13e0e250cb.png)
 
 ![image](https://user-images.githubusercontent.com/64750771/117524844-d4328280-af95-11eb-84c3-ce081e2730d8.png)
 
