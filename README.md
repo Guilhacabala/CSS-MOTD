@@ -9,7 +9,7 @@ In the boxes bellow you are going to learn how to configure your new MOTD
 # Creating new lists
 To create new lists you must:
 <ol>
-<li>Copy and paste one existing list</li>
+<li>Copy and paste one existing Division</li>
 <li>Rename the checkboxes in order</li>
 </ol>
 
@@ -37,10 +37,10 @@ Making a rule list fit inside of another rule list is easy!<p/>
 
 
 # Changing Or removing the Discord and Steam Links
-<ol>
+<ul>
 <li>To remove each link change the img Class, shown in blue, to false
 <li>To change Paste your link onto the link area shown in red in the picture</li>
-</ol>
+</ul>
 
 ![image](https://user-images.githubusercontent.com/64750771/118532859-ce6b3880-b71d-11eb-98b0-604a82a8131f.png)
 
