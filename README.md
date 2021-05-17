@@ -38,8 +38,9 @@ Making a rule list fit inside of another rule list is easy!<p/>
 
 # Changing Or removing the Discord and Steam Links
 <ol>
-<li>To remove delete the entire box you want to remove</li>
-<li>To change Paste your link onto the link area shown in the picture</li>
+<li>To remove each link change the img Class, shown in blue, to false
+<li>To change Paste your link onto the link area shown in red in the picture</li>
 </ol>
 
-![image](https://user-images.githubusercontent.com/64750771/117525091-2fb14000-af97-11eb-8e63-7b4d6631db46.png)
+![image](https://user-images.githubusercontent.com/64750771/118532859-ce6b3880-b71d-11eb-98b0-604a82a8131f.png)
+
