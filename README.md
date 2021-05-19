@@ -49,7 +49,7 @@ Making a rule list fit inside of another rule list is easy!<p/>
   <li>Replace the LI in the rule you want to link with the text below</li>
   <li>Change the https to your selected link</li>
 </ol>
-<p>&lt;a href="https&gt;//google.com" target="_blank"&gt;&lt;li&gt;&lt;span&gt;1) &lt;/span&gt;google&lt;/li&gt;&lt;/a&gt;</p>
+<p>&lt;a href="https://google.com" target="_blank"&gt;&lt;li&gt;&lt;span&gt;1) &lt;/span&gt;google&lt;/li&gt;&lt;/a&gt;</p>
 
 ![image](https://user-images.githubusercontent.com/64750771/118829020-275cdd00-b894-11eb-82be-4f515077a562.png)
 
