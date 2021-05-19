@@ -45,6 +45,7 @@ Making a rule list fit inside of another rule list is easy!<p/>
 ![image](https://user-images.githubusercontent.com/64750771/118532859-ce6b3880-b71d-11eb-98b0-604a82a8131f.png)
 
 # Clickable Rule Redirect
+(Clickable area little out of the li, but does not interfere with the rest)
 <ol>
   <li>Replace the LI in the rule you want to link with the text below</li>
   <li>Change the https://google.com to your desired link</li>
