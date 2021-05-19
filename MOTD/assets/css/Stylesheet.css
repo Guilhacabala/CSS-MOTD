@@ -9,6 +9,11 @@ body{
 	overflow-x: hidden;
 }
 
+* a{
+	color: #bb0000;
+	text-decoration: none;
+}
+
 .false {
 	width: 0;
 	height: 0;
