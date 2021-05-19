@@ -47,7 +47,7 @@ Making a rule list fit inside of another rule list is easy!<p/>
 # Clickable Rule Redirect
 <ol>
   <li>Replace the LI in the rule you want to link with the text below</li>
-  <li>Change the https to your selected link</li>
+  <li>Change the https://google.com to your desired link</li>
 </ol>
 <p>&lt;a href="https://google.com" target="_blank"&gt;&lt;li&gt;&lt;span&gt;1) &lt;/span&gt;google&lt;/li&gt;&lt;/a&gt;</p>
 
