@@ -40,6 +40,7 @@ Making a rule list fit inside of another rule list is easy!<p/>
 <ul>
 <li>To remove each link change the img Class, shown in blue, to false
 <li>To change Paste your link onto the link area shown in red in the picture</li>
+  <li>To redirect in the same tab (For Gmod MOTD,etc) remove the |target="_blank"| from the &lt;a&gt;</li>
 </ul>
 
 ![image](https://user-images.githubusercontent.com/64750771/118532859-ce6b3880-b71d-11eb-98b0-604a82a8131f.png)
