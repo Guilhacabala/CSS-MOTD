@@ -53,8 +53,5 @@ Making a rule list fit inside of another rule list is easy!<p/>
   <li>Change the https://google.com to your desired link</li>
   <li>To redirect in the same tab (For Gmod MOTD,etc) remove the |target="_blank"| from the &lt;a&gt;</li>
 </ol>
-<p>&lt;a href="https://google.com" target="_blank"&gt;&lt;li&gt;&lt;span&gt;1) &lt;/span&gt;google&lt;/li&gt;&lt;/a&gt;</p>
-
-![image](https://user-images.githubusercontent.com/64750771/118829020-275cdd00-b894-11eb-82be-4f515077a562.png)
-
-![image](https://user-images.githubusercontent.com/64750771/118829167-43607e80-b894-11eb-9761-9f23dfbcdcd2.png)
+<li onclick="location.href='https://google.com';"><span>1) </span>Visit Google.com</li>
+![image](https://user-images.githubusercontent.com/64750771/184747769-0a3de22f-cb71-4ee4-9587-320cc484a1ed.png)
